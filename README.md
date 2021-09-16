@@ -1,2 +1,4 @@
-# Machine-Learning-Using-SCIKIT-LEARN
-All ML techniques using scikit-learn
+# Scipy_Stats Tutorials
+
+
+Learn how to do Statistical Hypothesis Tests with Scipy_Stats.
